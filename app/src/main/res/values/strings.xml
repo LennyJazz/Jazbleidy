@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">MiAppDeIngles</string>
+
+    <string name="titulo1">MiAppIngles</string>
+
+    <string name="titulo2">siguiente</string>
+
+    <string name="titulo3">menú</string>
+
+    <string name="titulo4">Colores</string>
+
+    <string name="titulo5">Animales</string>
+
+    <string name="titulo6">Frutas</string>
+
+    <string name="titulo7">Colores</string>
+
+    <string name="titulo8">Blanco</string>
+
+    <string name="titulo9">Rosado</string>
+
+    <string name="titulo10">Negro</string>
+
+    <string name="titulo11">animales</string>
+
+    <string name="titulo12">Caballo</string>
+
+    <string name="titulo13">Perro</string>
+
+    <string name="titulo14">Tortuga</string>
+
+    <string name="titulo15">Frutas</string>
+
+    <string name="titulo16">Fresa</string>
+
+    <string name="titulo17">Manzana</string>
+
+    <string name="titulo18">Papaya</string>
+
+    <string name="titulo19">FondoRosa</string>
+
+    <string name="titulo20">Aprender</string>
+
+    <string name="titulo21">Jugar</string>
+
+    <string name="titulo22">¿Cual Es La Cereza?</string>
+
+    <string name="titulo23">¿Cual Es La Papaya?</string>
+
+    <string name="titulo24">¿Cual Es La Fresa?</string>
+
+    <string name="titulo25">¿Cual Es El Rosa?</string>
+
+    <string name="titulo26">¿Cual Es El Negro?</string>
+
+    <string name="titulo27">¿Cual Es El Blanco?</string>
+
+    <string name="titulo28">¿Cual Es El Perro?</string>
+
+    <string name="titulo29">¿Cual Es El Caballo?</string>
+
+    <string name="titulo30">¿Cual Es La Tortuga?</string>
+
+    <string name="titulo31">Inglés</string>
+
+    <string name="titulo32">Matemáticas</string>
+
+    <string name="titulo33">Español</string>
+
+    <string name="titulo34">Asignaturas</string>
+
+    <string name="titulo35">Calculadora</string>
+
+    <string name="titulo36">FelizSandia</string>
+
+    <string name="titulo37">Perroo</string>
+
+    <string name="titulo38">Serpiente</string>
+
+    <string name="titulo39">Tortugaa</string>
+
+    <string name="titulo40">Fondo1</string>
+
+    <string name="titulo41">FondoAsignaturas</string>
+
+    <string name="titulo42">FondoMate</string>
+
+    <string name="titulo43">FondoEspañol</string>
+
+    <string name="titulo44">Fruit</string>
+
+    <string name="titulo45">Siguiente</string>
+
+    <string name="titulo46">Aprende las vocales conmigo</string>
+
+    <string name="titulo47">A</string>
+
+    <string name="titulo48">E</string>
+
+    <string name="titulo49">I</string>
+
+    <string name="titulo50">O</string>
+
+    <string name="titulo51">U</string>
+
+    <string name="titulo52">Story</string>
+
+    <string name="titulo53">Asignaturas</string>
+
+    <string name="titulo54">Fondo4</string>
+
+    <string name="titulo55">Fondo5</string>
+
+    <string name="titulo56">Fondomora</string>
+
+    <string name="titulo57">Fondolila</string>
+
+    <string name="titulo58">Siguiente</string>
+
+    <string name="titulo59">Resultado</string>
+
+    <string name="titulo60">+</string>
+
+    <string name="titulo61">-</string>
+
+    <string name="titulo62">*</string>
+
+    <string name="titulo63">/</string>
+
+    <string name="titulo64">Devolver</string>
+
+    <string name="titulo65">VideoVocales</string>
+
+    <string name="titulo66">Aprende las vocales conmigo y repitee..</string>
+
+    <string name="titulo67">Aprende las operaciones básicas conmigo,presta mucha atención..</string>
+
+
+    <string name="titulo68">VideoOperaciones</string>
+
+
+</resources>

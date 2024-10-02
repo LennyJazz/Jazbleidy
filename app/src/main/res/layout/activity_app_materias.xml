@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AppMaterias"
+    android:orientation="vertical"
+    android:background="@drawable/fondo5">
+
+
+    <TextView
+        android:id="@+id/textMenu"
+        android:layout_width="270dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:text="@string/titulo34"
+        android:textColor="@color/black"
+        android:textSize="50dp" />
+
+    <Button
+        android:id="@+id/btnInglés"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="110dp"
+        android:text="@string/titulo31"
+        android:textSize="40dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/pastel"/>
+
+    <Button
+        android:id="@+id/btnMate"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/titulo32"
+        android:textSize="40dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/pastel"/>
+
+    <Button
+        android:id="@+id/btnEspañol"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/titulo33"
+        android:textSize="40dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/pastel"/>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".PreguntasFrutas1"
+    android:background="@color/piel">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="45dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="90dp"
+        android:text="@string/titulo22"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ImgCerezaUno"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginHorizontal="60dp"
+            android:src="@drawable/cerezas"/>
+
+        <ImageView
+            android:id="@+id/ImgFresaUno"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginHorizontal="6dp"
+            android:src="@drawable/fresa"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ImgSandiaUno"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginHorizontal="60dp"
+            android:src="@drawable/feliz"/>
+
+        <ImageView
+            android:id="@+id/ImgPapayaUno"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginHorizontal="6dp"
+            android:src="@drawable/papaya2"/>
+
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSiguienteFrutasUno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:text="@string/titulo45"
+        android:textSize="25dp"
+        android:textColor="@color/black"/>
+
+     </LinearLayout>
